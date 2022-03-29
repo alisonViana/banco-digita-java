@@ -1,3 +1,7 @@
+package models;
+
+import models.Conta;
+
 public interface InterfaceConta {
 
     void sacar(double valor);
